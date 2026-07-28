@@ -426,8 +426,7 @@
                 },
                 "properties": {
                   "label": "Bedford first passage route",
-                  "coordinateSpace": "geo",
-                  "crs": "EPSG:4326",
+                  "coordinateSpace": "image",
                   "canvas": "https://jptmoore.github.io/bedford/canvas/1"
                 }
               },
@@ -473,6 +472,10 @@
                       [
                         5597,
                         1769
+                      ],
+					  [
+                        5408,
+		                1631
                       ]
                     ]
                   ]
