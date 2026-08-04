@@ -117,7 +117,7 @@
                   "type": "TextualBody",
                   "purpose": "commenting",
                   "language": "en",
-                  "value": "Listed in Lloyd's Register of Shipping. Noted as a Ship sheathed with copper over boards, part copper fastened; built or repaired in 1803. [text truncated]"
+                  "value": "Listed in Lloyd's Register of Shipping. Noted as a Ship sheathed with copper over boards, part copper fastened; built or repaired in 1803. Ship was American, 2 year's old with 150 tonnage (two decks) and 12 feet of the draught of water when loaded. At this time it was captained by William Lane and owned by Ramsden. It was registered with London as the surveying-port trading to Africa. It was surveyed in February and classified as a first class vessel with first quality materials."
                 }
               ],
               "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5312,1931,56,17"
@@ -143,8 +143,8 @@
                   "geometry": {
                     "type": "Point",
                     "coordinates": [
-                      -0.078317477,
-                      51.5125719
+                      -0.402759725,
+                      51.44849173
                     ]
                   }
                 },
