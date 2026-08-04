@@ -292,7 +292,7 @@
                   "geometry": {
                     "type": "Point",
                     "coordinates": [
-                      13.613629793147387
+                      13.613629793147387,
                       -10.367767131898624
                     ]
                   }
@@ -329,7 +329,7 @@
                   "geometry": {
                     "type": "Point",
                     "coordinates": [
-                      -59.53802225
+                      -59.53802225,
                       13.22823286
                     ]
                   }
@@ -434,13 +434,13 @@
                         "28/11/1803 — Kingston"
                       ]
                     },
-                    "date": "28/11/18033",
+                    "date": "28/11/1803",
                     "source": "Lloyd's Register of Shipping"
                   },
                   "geometry": {
                     "type": "Point",
                     "coordinates": [
-                      76.85593618
+                      -76.85593618,
                       17.94117794
                     ]
                   }
@@ -477,7 +477,7 @@
                   "geometry": {
                     "type": "Point",
                     "coordinates": [
-                      -76.44619738
+                      -76.44619738,
                       18.1805005
                     ]
                   }
