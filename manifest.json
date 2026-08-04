@@ -306,7 +306,229 @@
                 }
               ],
               "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5648,3747,214,76"
-            }
+            },
+             {
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/7",
+              "type": "Annotation",
+              "motivation": [
+                "tagging",
+                "commenting"
+              ],
+              "body": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "label": {
+                      "en": [
+                        "06/11/1803 — Barbados"
+                      ]
+                    },
+                    "date": "06/11/1803",
+                    "source": "Lloyd's Register of Shipping"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      -59.53802225
+                      13.22823286
+                    ]
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "commenting",
+                  "language": "en",
+                  "format": "text/html",
+                  "value": "<p><b>06/11/1803 — Barbados</b></p> <p>Arrives in Barbados but unable to sell there. Lloyd's List also notes the Bedford 'was chased by Three Privateers to windward of that Island, and beat off one of them of 8 Guns, after Half-an-Hour's Engagement. The Bedford carries only four 4-pounders.'</p>"
+                }
+              ],
+              "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=3746,3185,160,46"
+            },
+             {
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/8",
+              "type": "Annotation",
+              "motivation": [
+                "tagging",
+                "commenting"
+              ],
+              "body": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "label": {
+                      "en": [
+                        "07/11/1803 — Barbados 2"
+                      ]
+                    },
+                    "date": "07/11/1803",
+                    "source": "Lloyd's Register of Shipping"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      -59.53802225
+                      13.22823286
+                    ]
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "commenting",
+                  "language": "en",
+                  "format": "text/html",
+                  "value": "<p><b>07/11/1803 — Barbados</b></p> <p>Permit granted from Custom House at port of Bridgetown, Barbados to sail to Demerary having 'discharged no cargo in Barbados'.</p>"
+                }
+              ],
+              "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=3746,3185,160,46"
+            },
+             {
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/9",
+              "type": "Annotation",
+              "motivation": [
+                "tagging",
+                "commenting"
+              ],
+              "body": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "label": {
+                      "en": [
+                        "15/11/1803 - Trinidad"
+                      ]
+                    },
+                    "date": "15/11/1803",
+                    "source": "Lloyd's Register of Shipping"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      -61.06022598
+                      10.91085433
+                    ]
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "commenting",
+                  "language": "en",
+                  "format": "text/html",
+                  "value": "<p><b>15/11/1803 - Trinidad</b></p> <p>Docked in Trinidad.</p>"
+                }
+              ],
+              "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=3763,3228,147,72"
+            },
+             {
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/10",
+              "type": "Annotation",
+              "motivation": [
+                "tagging",
+                "commenting"
+              ],
+              "body": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "label": {
+                      "en": [
+                        "28/11/1803 — Kingston"
+                      ]
+                    },
+                    "date": "28/11/18033",
+                    "source": "Lloyd's Register of Shipping"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      76.85593618
+                      17.94117794
+                    ]
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "commenting",
+                  "language": "en",
+                  "format": "text/html",
+                  "value": "<p><b>28/11/1803 — Kingston</b></p> <p>Entered and cleared the port of Kingston, Jamaica.</p>"
+                }
+              ],
+              "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=3278,3056,118,57"
+            },
+             {
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/11",
+              "type": "Annotation",
+              "motivation": [
+                "tagging",
+                "commenting"
+              ],
+              "body": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "label": {
+                      "en": [
+                        "13/04/1804 — Port Antonio"
+                      ]
+                    },
+                    "date": "13/04/1804",
+                    "source": "Lloyd's Register of Shipping"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      -76.44619738
+                      18.1805005
+                    ]
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "commenting",
+                  "language": "en",
+                  "format": "text/html",
+                  "value": "<p><b>13/04/1804 — Port Antonio</b></p> <p>Departed Port Antonio bound for London</p>"
+                }
+              ],
+              "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=3278,3056,118,57"
+            },
+             {
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/12",
+              "type": "Annotation",
+              "motivation": [
+                "tagging",
+                "commenting"
+              ],
+              "body": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "label": {
+                      "en": [
+                        "26/05/1804 — Gravesend"
+                      ]
+                    },
+                    "date": "26/05/1804",
+                    "source": "Lloyd's Register of Shipping"
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      -0.3697,
+                      51.4454
+                    ]
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "commenting",
+                  "language": "en",
+                  "format": "text/html",
+                  "value": "<p><b>26/05/1804 — Gravesend</b></p> <p>Arrives back in Gravesend.</p>"
+                }
+              ],
+              "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5324,1944,66,33"
+            },
           ]
         }
       ]
