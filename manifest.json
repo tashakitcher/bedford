@@ -122,6 +122,46 @@
               ],
               "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5312,1931,56,17"
             }
+            [
+        {
+          "id": "https://jptmoore.github.io/bedford/canvas/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/1",
+              "type": "Annotation",
+              "motivation": [
+                "tagging",
+                "commenting"
+              ],
+              "body": [
+                {
+                  "type": "Feature",
+                  "properties": {
+                    "label": {
+                      "en": [
+                        "04/05/1803 — London"
+                      ]
+                    },
+                    "date": "04/05/1803",
+                  },
+                  "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                      -0.078317477,
+                      51.5125719
+                    ]
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "commenting",
+                  "language": "en",
+                  "value": "Cleared out and sailed from Gravesend."
+                }
+              ],
+              "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5312,1931,56,17"
+            }
           ]
         }
       ]
