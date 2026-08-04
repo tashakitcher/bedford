@@ -160,7 +160,7 @@
               "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5324,1944,66,33"
             },
             {
-              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/1",
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/3",
               "type": "Annotation",
               "motivation": [
                 "tagging",
@@ -197,7 +197,7 @@
               "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5286,3361,242,112"
             },
             {
-              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/1",
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/4",
               "type": "Annotation",
               "motivation": [
                 "tagging",
@@ -234,7 +234,7 @@
               "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5286,3361,242,112"
             },
             {
-              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/1",
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/5",
               "type": "Annotation",
               "motivation": [
                 "tagging",
@@ -271,7 +271,7 @@
               "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5588,3647,200,78"
             },
             {
-              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/1",
+              "id": "https://jptmoore.github.io/bedford/canvas/1/annotation/6",
               "type": "Annotation",
               "motivation": [
                 "tagging",
