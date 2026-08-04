@@ -265,7 +265,7 @@
                   "purpose": "commenting",
                   "language": "en",
                   "format": "text/html",
-                  "value": "<p><b>14/09/1803 — Boma</b></p> <p>eached the port of Boma and Lane writes to inform Lumley that he has 'One hundred and Eighty slaves on board all in good health at present and hope in two or three days more to compleat my purchase'.</p>"
+                  "value": "<p><b>14/09/1803 — Boma</b></p> <p>Reached the port of Boma and Lane writes to inform Lumley that he has 'One hundred and Eighty slaves on board all in good health at present and hope in two or three days more to compleat my purchase'.</p>"
                 }
               ],
               "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=5588,3647,200,78"
@@ -292,8 +292,8 @@
                   "geometry": {
                     "type": "Point",
                     "coordinates": [
-                      13.4867328,
-                      -12.0152116
+                      13.613629793147387
+                      -10.367767131898624
                     ]
                   }
                 },
