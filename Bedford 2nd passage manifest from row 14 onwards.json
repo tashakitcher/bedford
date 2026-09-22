@@ -3,11 +3,11 @@
     "http://geojson.org/geojson-ld/geojson-context.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://jptmoore.github.io/bedford/manifest.json",
+  "id": "https://jptmoore.github.io/bedford2/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
-      "Bedford: First Passage, 1804–1805"
+      "Bedford: Second Passage, 1804–1805"
     ]
   },
   "summary": {
