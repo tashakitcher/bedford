@@ -23,8 +23,8 @@
     },
     "value": {
       "en": [
-        "The annotation follows IIIF Cookbook Recipe 0139: a geographic GeoJSON body is associated with a Canvas fragment target. A second TextualBody supplies the historical description."
-        "Test."
+        "The annotation follows IIIF Cookbook Recipe 0139: a geographic GeoJSON body is associated with a Canvas fragment target. A second TextualBody supplies the historical description.
+        Test."
       ]
     }
   },
