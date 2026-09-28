@@ -15,19 +15,18 @@
       "The Bedford’s second passage plotted on a 1719 world map."
     ]
   },
-  "metadata" [
-    {
-      "label": {
-        "en": [
-          "Content Warning"
-        ]
-      },
-      "value": {
-        "en": [
-          "This resource covers sensitive topics and should be approached with care. Teachers are advised to refer to the Background and Teachers’ Notes sections to help them share this history with confidence."
-        ]
-      }
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Annotation model"
+      ]
     },
+    "value": {
+      "en": [
+        "The annotation follows IIIF Cookbook Recipe 0139: a geographic GeoJSON body is associated with a Canvas fragment target. A second TextualBody supplies the historical description."
+      ]
+    }
+  },
   "requiredStatement": {
     "label": {
       "en": [
