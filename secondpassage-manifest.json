@@ -15,18 +15,20 @@
       "The Bedford’s second passage plotted on a 1719 world map."
     ]
   },
-  "requiredStatement": {
-    "label": {
-      "en": [
-        "Annotation model"
-      ]
-    },
-    "value": {
-      "en": [
-        "The annotation follows IIIF Cookbook Recipe 0139: a geographic GeoJSON body is associated with a Canvas fragment target. A second TextualBody supplies the historical description."
-      ]
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Glindoni, Henry Gillard, 1852-1913"
+        ]
+      }
     }
-  },
+  ],
   "requiredStatement": {
     "label": {
       "en": [
