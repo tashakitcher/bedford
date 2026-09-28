@@ -19,12 +19,48 @@
     {
       "label": {
         "en": [
+          "About"
+        ]
+      },
+      "value": {
+        "en": [
+          "This map reveals key points on the Bedford's second passage. The voyage took place between 1805 and 1805, and we have used a map from 1719 to visualise the journey."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
           "Content Warning"
         ]
       },
       "value": {
         "en": [
           "This resource covers sensitive topics and should be approached with care. Teachers are advised to refer to the Background and Teachers’ Notes sections to help them share this history with confidence."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Catalogue reference"
+        ]
+      },
+      "value": {
+        "en": [
+          "The National Archives: C 114/158."
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Image reference"
+        ]
+      },
+      "value": {
+        "en": [
+          "The National Archives: WO78-419."
         ]
       }
     }
