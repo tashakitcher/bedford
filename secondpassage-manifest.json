@@ -372,10 +372,10 @@
                   "properties": {
                     "label": {
                       "en": [
-                        "13/04/1803 — Reaching Surinam"
+                        "13/04/1805 — Reaching Surinam"
                       ]
                     },
-                    "date": "13/04/1803",
+                    "date": "13/04/1805",
                     "source": "Lloyd's Register of Shipping"
                   },
                   "geometry": {
@@ -391,7 +391,7 @@
                   "purpose": "commenting",
                   "language": "en",
                   "format": "text/html",
-                  "value": "<p><b>13/04/1803 — Reaching Surinam</b></p> <p>'The Bedford' 'arrived with 224 Slaves' and customs documents granted permission for the ship to depart Surinam for Demerara (in what is now Guyana). The documents noted that the inward bound cargo of enslaved people had not been sold in Surinam.</p>"
+                  "value": "<p><b>13/04/1805 — Reaching Surinam</b></p> <p>'The Bedford' 'arrived with 224 Slaves' and customs documents granted permission for the ship to depart Surinam for Demerara (in what is now Guyana). The documents noted that the inward bound cargo of enslaved people had not been sold in Surinam.</p>"
                 }
               ],
               "target": "https://jptmoore.github.io/bedford/canvas/1#xywh=3797,3368,179,72"
