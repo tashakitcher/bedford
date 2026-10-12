@@ -104,12 +104,12 @@
     }
   ]
 }],
-"references": [
-  {
-    "id": "https://discovery.nationalarchives.gov.uk/details/r/C5933318",
-    "type": "Text",
-    "label": {
-      "en": [
+  "references": [
+    {
+      "id": "https://discovery.nationalarchives.gov.uk/details/r/C5933318",
+      "type": "Text",
+      "label": {
+        "en": [
           "C 114/158"
         ]
       },
