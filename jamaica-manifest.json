@@ -12,7 +12,7 @@
   },
   "summary": {
     "en": [
-      "XXX."
+      "The stops the Bedford made in Jamaica."
     ]
   },
   "metadata": [
@@ -24,7 +24,7 @@
       },
       "value": {
         "en": [
-          "<p>This map reveals key points on the ship Bedford's second translatlantic voyage trafficking enslaved African people. The voyage took place between 1805 and 1805, and we have used a map from 1719 to visualise the route.</p> <p>To navigate through the story, click the text on the right hand side.</p>"
+          "<p>This map reveals key points on the ship Bedford's voyage that intersect with Jamaica.</p> <p>To navigate through the story, click the text on the right hand side.</p>"
         ]
       }
     },
@@ -48,7 +48,7 @@
       },
       "value": {
         "en": [
-          "The resource was created using the following collection of records. The National Archives: C 114/158; T 71/119; T 71/65 and T 71/164."
+          "TBC."
         ]
       }
     },
@@ -60,7 +60,7 @@
       },
       "value": {
         "en": [
-          "The National Archives: WO78-419."
+          "The National Archives: CO700-JAMAICA36."
         ]
       }
     },
@@ -118,7 +118,7 @@
   },
   "items": [
     {
-      "id": "https://jptmoore.github.io/bedford/canvas/1",
+      "id": "https://jptmoore.github.io/bedford/canvas/2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -129,14 +129,14 @@
       "height": 5621,
       "items": [
         {
-          "id": "https://jptmoore.github.io/bedford/canvas/1/painting",
+          "id": "https://jptmoore.github.io/bedford/canvas/2/painting",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://jptmoore.github.io/bedford/canvas/1/painting/image",
+              "id": "https://jptmoore.github.io/bedford/canvas/2/painting/image",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://jptmoore.github.io/bedford/canvas/1",
+              "target": "https://jptmoore.github.io/bedford/canvas/2",
               "body": {
                 "id": "https://jptmoore.github.io/bedford/CO700-JAMAICA36/full/max/0/default.jpg",
                 "type": "Image",
